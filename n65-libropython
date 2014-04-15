@@ -1,4 +1,0 @@
-import math from sqrt
-n1=float(raw_input("primer numero? "))
-n2=float(raw_input("segundo numero? "))
-

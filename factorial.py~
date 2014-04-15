@@ -1,0 +1,7 @@
+n=int(raw_input("ingrese valor de n para factorial "))
+f=1
+f2=1
+while f<n :
+	f2*=f
+	f+=1
+print f2
