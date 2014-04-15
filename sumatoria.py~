@@ -1,6 +1,0 @@
-x=1
-suma=0
-while x<1000 :
-	suma = suma + x
-	x = x + 1
-print suma
